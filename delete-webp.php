@@ -1,8 +1,11 @@
 <?php
 /*
 Plugin Name: Automatically Delete Webp Files
-Author Name: David Greenwald
-Author URI: https://www.davidgreenwald.com
+Plugin URI: https://github.com/davidegreenwald/automatically-delete-webp-files
+Description: Delete .webp files when parent image files are deleted from the Media Library
+Version: 0.9.0
+Author: David Greenwald
+Author URI: http://www.davidgreenwald.com
 */
 
 /**
